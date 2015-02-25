@@ -1,0 +1,68 @@
+D:\C#-TCP\Server\Server\bin\Debug\Server.exe.config
+D:\C#-TCP\Server\Server\obj\Debug\Server.exe
+D:\C#-TCP\Server\Server\obj\Debug\Server.pdb
+D:\C#-TCP\Server\Server\bin\Debug\Server.exe
+D:\C#-TCP\Server\Server\bin\Debug\Server.pdb
+D:\C#-TCP\Server\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\C#-TCP\Server\Server\obj\Debug\Server.Form1.resources
+D:\C#-TCP\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\C#-TCP\Server\Server\obj\Debug\GenerateResource.read.1.tlog
+D:\C#-TCP\Server\Server\obj\Debug\GenerateResource.write.1.tlog
+D:\vs2010\Server\Server\bin\Debug\Server.exe.config
+D:\vs2010\Server\Server\obj\Debug\Server.exe
+D:\vs2010\Server\Server\obj\Debug\Server.pdb
+D:\vs2010\Server\Server\bin\Debug\Server.exe
+D:\vs2010\Server\Server\bin\Debug\Server.pdb
+D:\vs2010\Server\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\vs2010\Server\Server\obj\Debug\Server.Form1.resources
+D:\vs2010\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\vs2010\Server\Server\obj\Debug\GenerateResource.read.1.tlog
+D:\vs2010\Server\Server\obj\Debug\GenerateResource.write.1.tlog
+E:\vs2010\Server\Server\bin\Debug\Server.exe.config
+E:\vs2010\Server\Server\obj\Debug\Server.exe
+E:\vs2010\Server\Server\obj\Debug\Server.pdb
+E:\vs2010\Server\Server\bin\Debug\Server.exe
+E:\vs2010\Server\Server\bin\Debug\Server.pdb
+E:\vs2010\Server\Server\obj\Debug\ResolveAssemblyReference.cache
+E:\vs2010\Server\Server\obj\Debug\Server.Form1.resources
+E:\vs2010\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\vs2010\Server\Server\obj\Debug\GenerateResource.read.1.tlog
+E:\vs2010\Server\Server\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Administrator\Desktop\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\Administrator\Desktop\Server\Server\Server\obj\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\Administrator\Desktop\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Server\Server\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Server\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Administrator\Desktop\Server\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Server\Server\Server\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Server\Server\Server\obj\Debug\GenerateResource.write.1.tlog
+d:\我的文档\桌面\Server\Server\Server\bin\Debug\Server.exe.config
+d:\我的文档\桌面\Server\Server\Server\obj\Debug\Server.exe
+d:\我的文档\桌面\Server\Server\Server\obj\Debug\Server.pdb
+d:\我的文档\桌面\Server\Server\Server\bin\Debug\Server.exe
+d:\我的文档\桌面\Server\Server\Server\bin\Debug\Server.pdb
+d:\我的文档\桌面\Server\Server\Server\obj\Debug\ResolveAssemblyReference.cache
+d:\我的文档\桌面\Server\Server\Server\obj\Debug\Server.Form1.resources
+d:\我的文档\桌面\Server\Server\Server\obj\Debug\Server.Properties.Resources.resources
+d:\我的文档\桌面\Server\Server\Server\obj\Debug\GenerateResource.read.1.tlog
+d:\我的文档\桌面\Server\Server\Server\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\BlueCard06\Desktop\BU-900E-K & BU-900M-K C# Code\BU-900E-K & BU-900M-K C# Code\Server\bin\Debug\Server.exe.config
+C:\Users\BlueCard06\Desktop\BU-900E-K & BU-900M-K C# Code\BU-900E-K & BU-900M-K C# Code\Server\obj\Debug\Server.exe
+C:\Users\BlueCard06\Desktop\BU-900E-K & BU-900M-K C# Code\BU-900E-K & BU-900M-K C# Code\Server\obj\Debug\Server.pdb
+C:\Users\BlueCard06\Desktop\BU-900E-K & BU-900M-K C# Code\BU-900E-K & BU-900M-K C# Code\Server\bin\Debug\Server.exe
+C:\Users\BlueCard06\Desktop\BU-900E-K & BU-900M-K C# Code\BU-900E-K & BU-900M-K C# Code\Server\bin\Debug\Server.pdb
+C:\Users\BlueCard06\Desktop\BU-900E-K & BU-900M-K C# Code\BU-900E-K & BU-900M-K C# Code\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\BlueCard06\Desktop\BU-900E-K & BU-900M-K C# Code\BU-900E-K & BU-900M-K C# Code\Server\obj\Debug\Server.Form1.resources
+C:\Users\BlueCard06\Desktop\BU-900E-K & BU-900M-K C# Code\BU-900E-K & BU-900M-K C# Code\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\BlueCard06\Desktop\BU-900E-K & BU-900M-K C# Code\BU-900E-K & BU-900M-K C# Code\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BU-900E-K & BU-900M-K C# Code\Server\bin\Debug\Server.exe.config
+C:\Users\Administrator\Desktop\BU-900E-K & BU-900M-K C# Code\Server\obj\Debug\Server.exe
+C:\Users\Administrator\Desktop\BU-900E-K & BU-900M-K C# Code\Server\obj\Debug\Server.pdb
+C:\Users\Administrator\Desktop\BU-900E-K & BU-900M-K C# Code\Server\bin\Debug\Server.exe
+C:\Users\Administrator\Desktop\BU-900E-K & BU-900M-K C# Code\Server\bin\Debug\Server.pdb
+C:\Users\Administrator\Desktop\BU-900E-K & BU-900M-K C# Code\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BU-900E-K & BU-900M-K C# Code\Server\obj\Debug\Server.Form1.resources
+C:\Users\Administrator\Desktop\BU-900E-K & BU-900M-K C# Code\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BU-900E-K & BU-900M-K C# Code\Server\obj\Debug\Server.csproj.GenerateResource.Cache
